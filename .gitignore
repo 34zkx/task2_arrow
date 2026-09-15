@@ -2,7 +2,3 @@ __pycache__/
 *.pyc
 *.pyo
 .opencode/
-assets/
-*.png
-*.jpg
-*.gif

@@ -53,16 +53,16 @@ python main.py
 ## 游戏界面
 
 ### 主菜单
-![image-20260915211230717](D:\study\大学\软工\task2_arrow\assets\image-20260915211230717.png)
+![主菜单](assets/image-20260915211230717.png)
 
 ### 游戏界面
-![image-20260915211246766](D:\study\大学\软工\task2_arrow\assets\image-20260915211246766.png)
+![游戏界面](assets/image-20260915211246766.png)
 
 ### 关卡通过
-![image-20260915211258022](D:\study\大学\软工\task2_arrow\assets\image-20260915211258022.png)
+![关卡通过](assets/image-20260915211258022.png)
 
 ### 游戏结束
-![image-20260915211317932](D:\study\大学\软工\task2_arrow\assets\image-20260915211317932.png)
+![游戏结束](assets/image-20260915211317932.png)
 
 ## 关卡设计
 
