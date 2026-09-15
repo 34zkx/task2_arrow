@@ -60,21 +60,21 @@ python test_game.py
 ## 游戏界面
 
 ### 主菜单
-![image-20260915213733243](D:\study\大学\软工\task2_arrow\assets\image-20260915213733243.png)
+![主菜单](assets/image-20260915213733243.png)
 
 ### 游戏界面
-![image-20260915213746042](D:\study\大学\软工\task2_arrow\assets\image-20260915213746042.png)
+![游戏界面](assets/image-20260915213746042.png)
 
 ### 错误答案箭头自动变红
 
-![image-20260915213904228](D:\study\大学\软工\task2_arrow\assets\image-20260915213904228.png)
+![错误答案](assets/image-20260915213904228.png)
 
 ### 关卡通过
 
-![image-20260915213802141](D:\study\大学\软工\task2_arrow\assets\image-20260915213802141.png)
+![关卡通过](assets/image-20260915213802141.png)
 
 ### 游戏结束
-![image-20260915213941506](D:\study\大学\软工\task2_arrow\assets\image-20260915213941506.png)
+![游戏结束](assets/image-20260915213941506.png)
 
 ## 关卡设计
 
