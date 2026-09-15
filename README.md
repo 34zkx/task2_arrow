@@ -53,16 +53,16 @@ python main.py
 ## 游戏界面
 
 ### 主菜单
-![主菜单](screenshots/menu.png)
+![image-20260915211230717](D:\study\大学\软工\task2_arrow\assets\image-20260915211230717.png)
 
 ### 游戏界面
-![游戏界面](screenshots/gameplay.png)
+![image-20260915211246766](D:\study\大学\软工\task2_arrow\assets\image-20260915211246766.png)
 
 ### 关卡通过
-![关卡通过](screenshots/level_complete.png)
+![image-20260915211258022](D:\study\大学\软工\task2_arrow\assets\image-20260915211258022.png)
 
 ### 游戏结束
-![游戏结束](screenshots/game_over.png)
+![image-20260915211317932](D:\study\大学\软工\task2_arrow\assets\image-20260915211317932.png)
 
 ## 关卡设计
 
@@ -102,16 +102,7 @@ task2_arrow/
 ## 开发工具
 
 本项目使用了以下 AIGC 工具辅助开发：
-- OpenCode（AI 编程助手）
+- OpenCode
+- codex
 
-## 许可证
 
-MIT License
-
-## 作者
-
-[你的名字]
-
-## 联系方式
-
-[你的邮箱]
